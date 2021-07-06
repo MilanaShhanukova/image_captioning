@@ -14,7 +14,16 @@ In a few scipts you can find:
 * training pipeline
 * metrics calculation 
 
-The main part and ready project can be found in notebook. 
+All of the parts of the models and its representation can be found here in [image_captioning_project.ipynb](https://github.com/MilanaShhanukova/image_captioning/blob/master/image_captioning_project%20(2).ipynb)
 
-Here are some examples: 
+All of the training reports with metrics can be found here: 
+
+[model without attention](https://wandb.ai/miana/image_captioning/reports/Report-Model-without-attention--Vmlldzo4Mjc3MTA)
+
+[model with attention](https://wandb.ai/miana/attention/reports/Model-with-attention---Vmlldzo4MzAzNjY)
+
+![image](https://user-images.githubusercontent.com/60469549/124648277-c0c16c00-de9f-11eb-8df2-9d1577764e97.png)
+![image](https://user-images.githubusercontent.com/60469549/124648187-a12a4380-de9f-11eb-8ac2-77dc9d755145.png)
+
+
 
